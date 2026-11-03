@@ -28,8 +28,8 @@
 body {
   margin: 0;
   padding: 2rem 1rem;
-  background: var(--background);
-  color: var(--text);
+  background: var(#ddb9f0);
+  color: var(#78508c);
   font-family: var(Georgia);
   font-size: 1.1rem;
   line-height: 1.6;
@@ -47,7 +47,7 @@ header {
 
 header img {
   border-radius: 50%;
-  border: 4px solid var(--accent);
+  border: 4px solid var(#640a91);
   object-fit: cover;
 }
 
@@ -62,7 +62,7 @@ header p {
 }
 
 section {
-  background: var(--card);
+  background: var(#d852f2);
   padding: 1.2rem 1.5rem;
   margin-bottom: 1.2rem;
   border-radius: 10px;
@@ -71,12 +71,12 @@ section {
 h2 {
   margin: 0 0 0.6rem;
   font-size: 1.3rem;
-  color: var(--accent);
+  color: var(#4f8c5a);
   padding-bottom: 0.3rem;
-  border-bottom: 3px solid var(--accent);
+  border-bottom: 3px solid var(#0e6e20);
 }
 
-a { color: var(--accent); }
+a { color: var(#8ede9d); }
 
 ul { padding-left: 1.2rem; margin: 0; }
 
