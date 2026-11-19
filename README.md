@@ -1,9 +1,13 @@
-# Profile page starter
+### Hi there, I'm Damaris 👋
 
-A starter for your personal profile page on GitHub Pages.
+* 🎓 Computer Science undergraduate at **UTRGV**
+* 💻 Building interactive fiction, 2D browser games, and web projects in **JavaScript**, **HTML/CSS**, and **Python**
+* 🎨 Interested in game design, creative storytelling, and visual aesthetics
 
-- `index.html` is your page's content. Replace the placeholder text with your own.
-- `style.css` controls how it looks. Change the colors and font at the top of the file.
-- `images/` holds pictures. Upload your own and update the file name in `index.html`.
+### Featured Projects
+* **[Adventure](https://github.com/Damaris019/Adventure)** — *The Watcher*, a branching narrative and visual adventure set on Gull Island.
+* **[Platform](https://github.com/Damaris019/Platform)** — A custom 2D JavaScript platformer featuring original levels, hazards, and power-ups.
+* **[legendary-adventure](https://github.com/Damaris019/legendary-adventure)** — JavaScript interactive adventure experiment.
 
-Your site will be at `https://YOUR-USERNAME.github.io/` once GitHub Pages is turned on.
+### Connect & Explore
+* 🌐 [GitHub Pages Site](https://damaris019.github.io)
